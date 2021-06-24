@@ -1,4 +1,4 @@
-# Gonzagaum
+# Gonzagaum Coin
 
 Criptomoeda em homenagem ao **rei do baião** Luiz Gonzaga do Nascimento, o Gonzagão (lê-se: `Gonzagaum`).
 
